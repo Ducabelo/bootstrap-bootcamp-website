@@ -9,4 +9,4 @@ https://www.frontendbootcampdemo.com/
 - I made a little adjustment in a "Start the Enrollment" button at sizes 992px to 1199px.
 - Latter I´ll try to so something else just for fun.
 
--By the way, the tutorial is amazing!
+- By the way, the tutorial is amazing!
